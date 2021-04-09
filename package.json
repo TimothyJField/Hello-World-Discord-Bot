@@ -1,0 +1,14 @@
+{
+  "name": "discord-hello-world-bot",
+  "version": "1.0.0",
+  "description": "A intro to discord bots",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Tim Field",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
